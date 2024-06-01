@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 function App() {
   // Task 1
-  // const name ='hello world'
+  const name ='hello world'
   // Task 2
   // const obj = {name: "Hello World Object"}
 
@@ -25,7 +25,7 @@ function App() {
   //Show these in a Table
   return (
     <>
-      {/* <h1>{name}</h1> */}
+      <h1>{name}</h1>
       {/* <h1>{obj.name}</h1> */}
       {/* <ul>
       <li>{data[0]}</li>
